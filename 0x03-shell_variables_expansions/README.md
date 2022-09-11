@@ -3,3 +3,4 @@
 2-path - A script to append /action to the PATH variable
 3-paths - A script to count the numbers of directories in the PATH variable
 4-global_variable - a script that lists environment variables.
+5-local_variables - a script that lists all local variables and environment variables, and functions
